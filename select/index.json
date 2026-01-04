@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "レオ",
+  "base_artist": "優里",
+  "createdAt": "2026-01-04T05:51:29.735566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hellfire (レオ=ホワイトファング テーマ)",
+      "artist": "NAOKI",
+      "has_synced": true,
+      "path": "select/01_Hellfire_(レオ=ホワイトファング_テーマ)_NAOKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レオ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/02_レオ_NICO_Touches_the_Walls.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レオ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/03_レオ_優里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レオ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/04_レオ_優里.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "レオ (Leo)",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/05_レオ_(Leo)_優里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "レオ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/06_レオ_優里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レオ",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_レオ_優里.txt"
+    }
+  ]
+}
